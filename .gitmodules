@@ -1,15 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/duckdblabs/universe
-	shallow = true
 	branch = HEAD
 [submodule "relational"]
 	path = relational
 	url = https://github.com/duckdblabs/relational
-	shallow = true
-	registered = true
 [submodule "constructive"]
 	path = constructive
 	url = https://github.com/cynkra/constructive
-	shallow = true
 	registered = false
