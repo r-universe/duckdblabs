@@ -1,11 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/duckdblabs/universe
+	url = https://github.com/duckdblabs/duckdblabs.r-universe.dev
 	branch = HEAD
-[submodule "relational"]
-	path = relational
-	url = https://github.com/duckdblabs/relational
 [submodule "constructive"]
 	path = constructive
 	url = https://github.com/cynkra/constructive
 	registered = false
+[submodule "duckplyr"]
+	path = duckplyr
+	url = https://github.com/duckdblabs/duckplyr
