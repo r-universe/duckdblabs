@@ -5,3 +5,7 @@
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/duckdblabs/duckplyr
+[submodule "pillar"]
+	path = pillar
+	url = https://github.com/r-lib/pillar
+	registered = false
